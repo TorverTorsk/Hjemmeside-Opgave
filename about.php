@@ -1,34 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
-	<link rel="stylesheet" href="../css/main.css">
-	<script src="../js/main.js"></script>
-	
-	
-</head>
-<body>
-
-	<table class="center">
-        <tr >
-			<td><a class="Buttons" href="billeder.html">Billeder</a></td> 
-			<td><a class="Buttons" href="videoer.html">Videoer</a></td> 
-			<td><a class="Buttons" href="map.html">Kort</a></td> 
-			<td><a class="Buttons" href="about.html">Om</a></td> 
-			<td><a class="Buttons" href="oensker.html">Ønsker</a></td> 
-			<td><a class="Buttons" href="countdown.html">Nedtælling</a></td> 
-		</tr>
-	</table>
+<?php 
+include_once "navbar.html"
+?>
 
 	<center>
 	<table>
 		
 		<h1 class="sto" >Blå Bog</h1>
         <h2 class="sto">Andreas Nordahl Terkelsen</h2>
-        <img src="../images/hc_oersted.png" alt="" class="center" style="width: 25%;">
+        <img src="images/hc_oersted.png" alt="" class="center" style="width: 25%;">
 
         <table style="margin-top: 10px; border-collapse: collapse; border: 1px solid black; ">
             <tr>
