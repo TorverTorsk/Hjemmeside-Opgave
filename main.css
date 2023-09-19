@@ -1,0 +1,16 @@
+body
+{
+	background-color: white;
+}
+
+tr,table{margin-top: 20px;}
+.Hcoe{width: 100%;}
+.Buttons{padding: 20px; font-size: x-large;text-decoration: none; color: black;  }
+.center{margin-left: auto; margin-right: auto;}
+.poloroid{box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); width: 100%;}
+
+h1,h2.sto{color: rgb(255, 0, 0); font-family: Arial, Helvetica, sans-serif; text-align: center; }
+img.center{display: block; margin-left: auto;margin-right: auto;}
+div.colum{text-align: center;}
+td.titel{height: auto; width: 100px; border-collapse: collapse; border: 1px solid black; }
+td.text{height: auto; width: 300px; border-collapse: collapse; border: 1px solid black; }
