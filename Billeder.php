@@ -25,6 +25,12 @@ include_once "navbar.html"
 			</div>
 		</td>
 	</tr>
+</table>
+
+<center>
+	<h4>For billede tracking kontakt Bo Larsen: bola@tec.dk  </h4>
+</center>
+
 </body>
 </html>
 
